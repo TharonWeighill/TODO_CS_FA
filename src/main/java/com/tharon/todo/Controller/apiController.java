@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class apiController {
     @GetMapping(value = "/")
         public String getPage() {
-        return "Welcome";
+        return "Hello World";
     }
 }
-

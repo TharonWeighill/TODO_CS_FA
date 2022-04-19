@@ -1,6 +1,7 @@
 package com.tharon.todo.Models;
+import javax.persistence.*;
 
-
+@Entity
 public class User {
 
     private long id;
