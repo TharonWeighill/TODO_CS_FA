@@ -4,7 +4,7 @@ import javax.persistence.*;
 @Entity
 public class User {
 
-    @Id //tells ID was be unique for each user
+    @Id //tells ID will be unique for each user
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
 
