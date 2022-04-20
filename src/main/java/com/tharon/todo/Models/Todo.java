@@ -12,6 +12,6 @@ public class Todo {
     private long id;
 
     @Column
-    private String todo;
+    private String list;
 
 }

@@ -1,4 +1,4 @@
-package com.tharon.todo;
+package com.example.tharon_todo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
